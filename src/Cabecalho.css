@@ -1,0 +1,9 @@
+.cabecalho{
+    background-color: pink;
+    display: flex;
+}
+
+.cabecalho img {
+    width: 50px;
+    align-self: center;
+}
